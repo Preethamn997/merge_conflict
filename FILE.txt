@@ -1,0 +1,8 @@
+class PythonCode:
+
+	def employee():
+		print("file is created by employee1")
+
+pythoncode = PythonCode
+
+pythoncode.employee()
